@@ -185,10 +185,4 @@ FILES IN THIS PACKAGE
           combined). Option 5 combines everything. order.txt.
           Microsoft Office engine with LibreOffice fallback.
           System check with automatic install of missing parts.
-
-  ASKING FOR A NEW VERSION
-  Bring pdf_tool.py to a new chat, tell Claude the version shown
-  on screen and what you want added. The new file will have a higher
-  version number. Keep the old file renamed (for example
-  pdf_tool_v1.0.0.py) as a backup.
 ==============================================================
